@@ -1,0 +1,1 @@
+console.log('Hello, my name is Javascript.\nI don\'t think floating points are real.')
